@@ -39,10 +39,10 @@ Param (
 )
 
 # Install and load required modules
-Install-Module -Name "IntuneWin32App"  # https://github.com/MSEndpointMgr/IntuneWin32App
+Install-Module -Name "IntuneWin32App" -Scope CurrentUser # https://github.com/MSEndpointMgr/IntuneWin32App
 Import-Module -Name "IntuneWin32App"
 
-Install-Module -Name "Microsoft.Graph.Intune"
+Install-Module -Name "Microsoft.Graph.Intune" -Scope CurrentUser
 Import-Module -Name "Microsoft.Graph.Intune"
 
 
