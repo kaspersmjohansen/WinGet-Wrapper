@@ -1,7 +1,0 @@
-PackageID,Context,AcceptNewerVersion,UpdateOnly,Version,StopProcessInstall,StopProcessUninstall,PreScriptInstall,PostScriptInstall,PreScriptUninstall,PostScriptUninstall,CustomArgumentListInstall,CustomArgumentListUninstall,InstallIntent,Notification,GroupID
-<<<<<<< HEAD
-VideoLAN.VLC,Machine,1,1,,,,,,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-VideoLAN.VLC,Machine,0,0,,,,,,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-=======
-VideoLAN.VLC,Machine,1,1,,,,,,,,,,,,
->>>>>>> 70dc3a1c5243ba05d577a5c71c7aaf73ec72eca9

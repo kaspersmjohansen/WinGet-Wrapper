@@ -1,8 +1,0 @@
-PackageID,Context,AcceptNewerVersion,UpdateOnly,Version,StopProcessInstall,StopProcessUninstall,PreScriptInstall,PostScriptInstall,PreScriptUninstall,PostScriptUninstall,CustomArgumentListInstall,CustomArgumentListUninstall,InstallIntent,Notification,GroupID
-Git.Git,User,1,0,,,,,,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-Google.Chrome,Machine,1,0,,,,,googlechromepostscript.ps1,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-Microsoft.DotNet.DesktopRuntime.6,Machine,1,0,,,,,,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-Handbrake.Handbrake,Machine,1,0,,,,,,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-Oracle.JavaRuntimeEnvironment,Machine,1,0,,,,,,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-Microsoft.VisualStudioCode,User,1,0,,,,,,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de68
-ProtonTechnologies.ProtonVPN,Machine,1,0,,,,,protonvpnpostscript.ps1,,,,,Required,showAll,99be0587-916c-4362-a040-fac71068de6
